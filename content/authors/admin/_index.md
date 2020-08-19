@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include catalysts, chemical modelling and Artificial Intelligence.
 
-[interests:
+interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval]
+- Information Retrieval
 
 education:
   courses:
