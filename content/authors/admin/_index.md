@@ -30,7 +30,7 @@ education:
   - course: Bachelor in Chemical Engineering
     institution: Seoul National University
     year: 2021
-  - course: Research Internship
+  - course: Exchange
     institution: Georgia Institute of Technology
     year: 2020
   - course: Research Internship
