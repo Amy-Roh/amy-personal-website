@@ -22,7 +22,7 @@ bio: My research interests include catalysts, chemical modelling and Artificial 
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Molecular modelling
 - Information Retrieval
 
 education:
@@ -33,6 +33,9 @@ education:
   - course: Research Internship
     institution: Georgia Institute of Technology
     year: 2020
+  - course: Research Internship
+    institution: University of Connecticut
+    year: 2017
 
 
 # Social/Academic Networking
@@ -67,7 +70,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Amy Roh is an undergraduate student at Seoul National University. Her research interestes include catalysts, and chemical modelling. She is currently a research assistant in the Chemical Engineering Department, and has undertaken 2 previous research internships at the University of Connecticut and Georgia Institute of Technology.
+Amy Roh is an undergraduate student at Seoul National University. Her research interests include catalysts, and chemical modelling. She is currently a research assistant in the Chemical Engineering Department, and has undertaken 2 previous research internships at the University of Connecticut and Georgia Institute of Technology.
 
 In her spare time she volunteers at summer camps and high school mentoring, to encourage young women to pursure an interest in STEM. 
 
