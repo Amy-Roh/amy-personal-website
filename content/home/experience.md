@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Seoul, Korea"
   date_start = "2020-06-01"
   date_end = ""
-  description = """
+  description = ""
+  """
   Responsibilities include:
   
   * Analysing
@@ -54,7 +55,6 @@ date_format = "Jan 2006"
   
   * Analysing
   * Modelling
-  * Deploying
-  
+  * Deploying  
   """
 +++
