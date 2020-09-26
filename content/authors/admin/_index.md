@@ -33,9 +33,7 @@ education:
   - course: Exchange
     institution: Georgia Institute of Technology
     year: 2020
-  - course: Research Internship
-    institution: University of Connecticut
-    year: 2017
+
 
 
 # Social/Academic Networking
