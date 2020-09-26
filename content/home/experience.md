@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Atlanta, USA"
   date_start = "2020-01-01"
   date_end = "2020-05-31"
-  description = """Researched catalysts."""
+  description = "Researched catalysts."
   
 [[experience]]
   title = "Research Assistant"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "Storrs, USA"
   date_start = "2017-06-01"
   date_end = "2017-09-01"
-  description = """Researched catalysts."""
+  description = "Researched catalysts."
   """
   Responsibilities include:
   
