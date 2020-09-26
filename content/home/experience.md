@@ -49,6 +49,7 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = "2017-09-01"
   description = """Researched catalysts."""
+  """
   Responsibilities include:
   
   * Analysing
